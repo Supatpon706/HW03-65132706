@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Supatpon Treetong",
+        "email": "supatpontreetong@gamil.com",
+        "password": "1234",
+        "gender": "Male"
+      }
+    ]
+}
+  
